@@ -140,6 +140,7 @@ Welcome to PeptidePal Support! We're here to help you get the most out of your p
 - [Privacy Policy](https://jiveshbhatti.github.io/peptidepal-legal/privacy-policy.html)
 - [Terms of Service](https://jiveshbhatti.github.io/peptidepal-legal/terms-of-service.html)
 - [App Store Page](https://apps.apple.com/app/peptidepal/id6670215134)
+- [Documentation Hub](https://jiveshbhatti.github.io/peptidepal-support/)
 
 ## 💬 Community & Feedback
 
